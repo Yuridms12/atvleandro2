@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": 2500
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 50
+    },
+    {
+      "name": "das",
+      "price": 52,
+      "id": 3
+    },
+    {
+      "name": "asdgsfdasdads",
+      "price": 521,
+      "id": 4
+    },
+    {
+      "name": "g34534",
+      "price": 523,
+      "id": 5
+    },
+    {
+      "name": "dasdas",
+      "price": 1.8,
+      "id": 6
+    },
+    {
+      "name": "adsadsdsa",
+      "price": 87432,
+      "id": 7
+    },
+    {
+      "name": ".bnmcvcvx",
+      "price": 600,
+      "id": 8
+    },
+    {
+      "name": "adsadsadsads",
+      "price": 521,
+      "id": 9
+    },
+    {
+      "name": "Porta",
+      "price": 1000,
+      "id": 10
+    },
+    {
+      "name": "421",
+      "price": 432,
+      "id": 11
+    }
+  ]
+}
